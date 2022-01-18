@@ -23,4 +23,4 @@
 
   ## Minhas contribuições
 
- ![Snake animation](https://github.com/yaratavares/yaratavares/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/yaratavares/YaraTavares/blob/output/github-contribution-grid-snake.svg)
