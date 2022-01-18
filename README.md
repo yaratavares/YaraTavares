@@ -1,7 +1,9 @@
-### Olá, sou Yara Tavares 👋
+## Hi, I'm Yara Tavares 🧜🏾‍♀️
 
-- 🔭 Trabalhando com front-end
-- 🌱 Estudando back-end
+- 🌱 Full stack development student;
+- 📚 Currently learning more about back-end but in my repository you will find more about my front-end projects;
+- 🔭 Civil Engineer in training, developing a tool on Structural Optimization in Matlab software;
+- 🏕️ I love traveling and nature!
 
 <div align="center">
   <a href="https://github.com/yaratavares">
@@ -21,6 +23,6 @@
   <img align="center" alt="yara-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
 
-  ## Minhas contribuições
+## My contributions
 
  ![Snake animation](https://github.com/yaratavares/YaraTavares/blob/output/github-contribution-grid-snake.svg)
