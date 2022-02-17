@@ -6,6 +6,10 @@
 - 🏕️ I love traveling and nature!
 
 <div align="center">
+<a href="https://wakatime.com/@97595b44-027b-4695-a588-53e9c884f7e2"><img src="https://wakatime.com/badge/user/97595b44-027b-4695-a588-53e9c884f7e2.svg" alt="Total time coded since Oct 5 2021" /></a>
+</div>
+  
+<div align="center">
   <a href="https://github.com/yaratavares">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yaratavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaratavares&layout=compact&langs_count=7&theme=dracula"/>
