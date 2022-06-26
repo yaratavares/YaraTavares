@@ -41,6 +41,7 @@
 
 - Front-end:
 
+<p>
 <a src='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript'>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 </a>
@@ -55,8 +56,7 @@
 </a>
 <a src="https://reactjs.org/">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="badge react"/> </a><a src="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a> <a src="https://styled-components.com/"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
-
-
+</p>
 
 - Back-end:
 
@@ -78,6 +78,7 @@
 
 - Deploy:
 
+<p>
 <a src='https://vercel.com/docs'>
 <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'>
 </a>
@@ -90,6 +91,7 @@
 <a src='https://docs.github.com/pt/actions'>
 <img src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white'>
 </a>
+</p>
 
 - Tests:
 
