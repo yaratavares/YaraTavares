@@ -1,33 +1,118 @@
 ## Hi, I'm Yara Tavares 🧜🏾‍♀️
 
-- 🌱 Full stack development student;
-- 📚 Currently learning more about back-end but in my repository you will find more about my front-end projects;
+- 🌱 Full stack web developer;
+- 📚 Currently learning more about tests and CI/CD but in my repository you will find more about my front-end, back-end projects and often projects that have both;
 - 🔭 Civil Engineer in training, developing a tool on Structural Optimization in Matlab software;
 - 🏕️ I love traveling and nature!
 
-<div align="center">
-<a href="https://wakatime.com/@97595b44-027b-4695-a588-53e9c884f7e2"><img src="https://wakatime.com/badge/user/97595b44-027b-4695-a588-53e9c884f7e2.svg" alt="Total time coded since Oct 5 2021" /></a>
+## Ei, eu sou Yara Tavares 🧜🏾‍♀️
+
+- 🌱 Desenvolvedora web full stack;
+- 📚 Atualmente aprendendo mais sobre testes e CI/CD, mas em meu respositório você poderá encontrar meus projetos front-end, back-end e frequentemente projetos que possuem os dois (full-stack);
+- 🔭 Engenheira Civil em formação, desenvolvendo uma ferramenta em Otimização Estrutural no software Matlab;
+- 🏕️ Eu amo a viajar e natureza! 
+
+## Contact me
+
+<div>
+    <a href='https://www.linkedin.com/in/yaracristinatavares/'>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href='mailto:yaracriistavares@gmail.com' >
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+    </a>
+    <a href='mailto:yaracrys@hotmail.com'>
+        <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'/>
+    </a>
 </div>
+
+## My Github Stats
+
+<div align="center">
   
 <div align="center">
-  <a href="https://github.com/yaratavares">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yaratavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaratavares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="yara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="yara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="yara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="yara-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="yara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="yara-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="yara-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">  
-  <img align="center" alt="yara-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="yara-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />       
-          
 </div>
 
-## My contributions
+## Languages e tools
 
- ![Snake animation](https://github.com/yaratavares/YaraTavares/blob/output/github-contribution-grid-snake.svg)
+- Front-end:
+
+<a src='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript'>
+<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+</a>
+<a src='https://devdocs.io/html/'>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+</a>
+<a src='https://devdocs.io/css/'>
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+</a>
+<a src='https://sass-lang.com/documentation/'>
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
+</a>
+<a src="https://reactjs.org/">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="badge react"/> </a><a src="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a> <a src="https://styled-components.com/"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
+
+
+
+- Back-end:
+
+<p>
+<a src="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a src="https://expressjs.com/pt-br/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a src='https://www.postgresql.org/'>
+<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
+</a>
+<a src='https://www.prisma.io/docs/'>
+<img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'/>
+</a>
+<a src='https://redis.io/docs/'>
+<img src='https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white'>
+</a>
+
+</p>
+
+- Deploy:
+
+<a src='https://vercel.com/docs'>
+<img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'>
+</a>
+<a src='https://devcenter.heroku.com/categories/reference'>
+<img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
+</a>
+<a src='https://docs.aws.amazon.com/'>
+<img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'>
+</a>
+<a src='https://docs.github.com/pt/actions'>
+<img src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white'>
+</a>
+
+- Tests:
+
+<p>
+<a src='https://jestjs.io/docs/next/getting-started'>
+<img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
+</a>
+<a src='https://docs.cypress.io/'>
+<img src='https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white'/>
+</a>
+</p>
+
+
+- Tools:
+
+<p>
+<a src='https://git-scm.com/docs/git'>
+<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+</a>
+<a src='https://docs.docker.com/'>
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
+</a>
+<a src='https://docs.insomnia.rest/'>
+<img src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white'/>
+</a>
+</p>
