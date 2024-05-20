@@ -1,16 +1,13 @@
 ## Hi, I'm Yara Tavares 🧜🏾‍♀️
 
 - 🌱 Full stack web developer;
-- 📚 Currently learning more about tests and CI/CD but in my repository you will find more about my front-end, back-end projects and often projects that have both;
-- 🔭 Civil Engineer in training, developing a tool on Structural Optimization in Matlab software;
+- 📚 Currently learning more about Terraform and DevOps frameworks but in my repository you will find more about my front-end, back-end projects and often projects that have both;
+- 🔭 Civil Engineer, at the conclusion of my course I developed a tool on Structural Optimization in Matlab software;
 - 🏕️ I love traveling and nature!
 
-## Ei, eu sou Yara Tavares 🧜🏾‍♀️
+## Development hours
 
-- 🌱 Desenvolvedora web full stack;
-- 📚 Atualmente aprendendo mais sobre testes e CI/CD, mas em meu respositório você poderá encontrar meus projetos front-end, back-end e frequentemente projetos que possuem os dois (full-stack);
-- 🔭 Engenheira Civil em formação, desenvolvendo uma ferramenta em Otimização Estrutural no software Matlab;
-- 🏕️ Eu amo a viajar e natureza! 
+[![wakatime](https://wakatime.com/badge/user/97595b44-027b-4695-a588-53e9c884f7e2.svg)](https://wakatime.com/@97595b44-027b-4695-a588-53e9c884f7e2)
 
 ## Contact me
 
@@ -76,9 +73,12 @@
 
 </p>
 
-- Deploy:
+- DevOps:
 
 <p>
+<a src='https://www.terraform.io/'>
+<img src='https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white'>
+</a>
 <a src='https://vercel.com/docs'>
 <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'>
 </a>
